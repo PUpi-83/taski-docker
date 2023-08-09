@@ -63,4 +63,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/taski_backend:latest       
+          tags: princess32/taski_backend:latest       
